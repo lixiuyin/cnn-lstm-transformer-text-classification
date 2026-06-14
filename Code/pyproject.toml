@@ -1,0 +1,22 @@
+[project]
+name = "cnn-lstm-transformer-text-classification"
+version = "0.1.0"
+description = "Performance comparison of CNN, BiLSTM, and Transformer on text classification"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "datasets>=2.19",
+    "torch>=2.2",
+    "numpy>=1.26",
+    "pandas>=2.0",
+    "scikit-learn>=1.4",
+    "matplotlib>=3.8",
+    "seaborn>=0.13",
+    "tqdm>=4.66",
+    "requests>=2.31",
+    "httpx[socks]>=0.28.1",
+]
+
+[tool.uv]
+# Script-style project; do not build/install it as a Python package
+package = false

@@ -1,0 +1,7 @@
+Metric,BiLSTM,CNN,Transformer
+Accuracy,94.8%,97.3%,96.3%
+Precision,95.0%,97.3%,96.4%
+Recall,94.8%,97.3%,96.3%
+F1-Score,94.8%,97.3%,96.3%
+Test Loss,0.2037,0.0845,0.1225
+Samples/Second,27262,40910,19726

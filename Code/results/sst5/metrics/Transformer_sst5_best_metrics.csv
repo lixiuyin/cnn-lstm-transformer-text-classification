@@ -1,0 +1,11 @@
+Metric,Training,Validation,Test
+Loss,1.2813,1.3627,1.3219
+Accuracy,43.5%,40.8%,42.4%
+Precision,44.0%,41.8%,44.8%
+Recall,43.5%,40.8%,42.4%
+F1-Score,39.3%,36.0%,38.3%
+Total Inference Time (s),N/A,0.0032,0.0077
+Avg Batch Time (s),N/A,0.0016,0.0015
+Min Batch Time (s),N/A,0.0016,0.0015
+Max Batch Time (s),N/A,0.0017,0.0017
+Samples/Second,N/A,264346.89,287941.47
