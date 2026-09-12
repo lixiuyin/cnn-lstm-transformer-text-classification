@@ -87,8 +87,8 @@
 
 ```
 .
-├── README.md                 # 英文（默认）
-├── README.zh-CN.md           # 本文件（中文）
+├── README.md                 # 中文（默认）
+├── README.en.md              # English
 ├── Code/                      # 实现 + 实验产物
 │   ├── README.md             # 代码级使用说明
 │   ├── pyproject.toml        # 依赖（由 uv 管理）
