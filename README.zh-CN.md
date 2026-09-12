@@ -1,6 +1,6 @@
 # LSTM、CNN 与 Transformer 的原理及其在文本分类任务上的性能比较
 
-[English](README.md) | **简体中文**
+[English](README.en.md) | **简体中文**
 
 > 在统一、公平的训练协议下，对 **BiLSTM**、**CNN**、**Transformer** 三类编码器在四个文本
 > 分类基准上的可复现对比研究；并配有一份从原理出发的理论讲稿（LSTM 前向/反向推导、CNN、
