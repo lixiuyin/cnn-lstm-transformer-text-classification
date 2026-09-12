@@ -90,8 +90,8 @@ luck:
 
 ```
 .
-├── README.md                 # this file (English, default)
-├── README.md           # Chinese version
+├── README.md                 # Chinese (default)
+├── README.en.md              # English documentation
 ├── Code/                      # implementation + experimental outputs
 │   ├── README.md             # code-level usage details
 │   ├── pyproject.toml        # dependencies (managed by uv)
